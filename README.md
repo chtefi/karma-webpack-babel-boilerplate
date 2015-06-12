@@ -1,4 +1,4 @@
-# karma-webpack-babel-boilerplate
+# karma-webpack-babel-boilerplate [![Build Status](https://travis-ci.org/chtefi/karma-webpack-babel-boilerplate.svg?branch=master)](https://travis-ci.org/chtefi/karma-webpack-babel-boilerplate)
 Contains a boilerplate of a project set up for karma, webpack, babel, mocha,
 istanbul.
 
