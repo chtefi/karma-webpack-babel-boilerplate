@@ -4,7 +4,7 @@
   "description": "Contains a boilerplate of a project set up for karma, webpack, babel, mocha, istanbul.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/karma start"
   },
   "repository": {
     "type": "git",
